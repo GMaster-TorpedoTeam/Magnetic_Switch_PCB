@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [XJTLU_Torpedo.PrjPcb]
+   Generated File[XJTLU_Torpedo.TXT]
+   Generated File[XJTLU_Torpedo.LDP]
+   Generated File[XJTLU_Torpedo.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:00:19 On 2022/6/15
