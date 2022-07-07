@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\学校\战队\Robomaster2022\XJTLU_Torpedo\硬件\磁控开关\XJTLU_Torpedo\pcb\XJTLU_Torpedo.PcbDoc
+DRC Rules Export File for PCB: D:\Git_PCB\XJTLU_Torpedo_magnetic_switch\XJTLU_Torpedo\pcb\XJTLU_Torpedo.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
